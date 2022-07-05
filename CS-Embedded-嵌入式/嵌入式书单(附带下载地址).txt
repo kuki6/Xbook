@@ -1,5 +1,5 @@
 1.正点原子官方资料下载地址(STM32、Linux、FPGA)：http://www.openedv.com/docs/index.html#
 2.野火官方资料下载地址(STM32、Linux、FPGA、emXGUI)：https://doc.embedfire.com/products/link/zh/latest/index.html
-
+3.STM32Cube_LVGL:https://github.com/1061700625/STM32F429_CubeMX_LVGL_FreeRTOS
 
 备注：逐渐更新，期待推荐；
